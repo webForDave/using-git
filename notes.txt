@@ -1,0 +1,1 @@
+Used git reset --hard HEAD~1 to recover the STORY.txt I intentionally deleted
